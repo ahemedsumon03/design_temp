@@ -1,0 +1,49 @@
+.banner {
+    margin-left: 120px;
+    margin-top: 18px;
+    margin-bottom: 130px;
+}
+
+.bannerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: -10px;
+}
+
+.bannerPart {
+    flex: 0.8;
+}
+
+.bannerPart>h1 {
+    font-family: 'Satoshi';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    width: 300px;
+}
+
+.bannerPart>p {
+    margin-top: -10px;
+    font-size: 17px;
+    font-family: 'Satoshi';
+    line-height: 25px;
+    width: 470px;
+    font-weight: 300;
+}
+
+.precolor {
+    color: #F06564;
+}
+
+.aiimage {
+    flex: 1.1;
+    width: 700px;
+    height: 360px;
+    margin-right: 70px;
+    object-fit: fill;
+}
+
+.bannerPart {
+    width: 350px;
+}

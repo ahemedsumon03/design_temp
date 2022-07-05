@@ -1,0 +1,90 @@
+.analysitContainer {
+    background-color: #FAFAFA;
+    padding-bottom: 40px;
+}
+
+.analytics {
+    margin-left: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.analyticsContainer {
+    width: 426px;
+    height: 280px;
+}
+
+.analyticsContainer>h1 {
+    width: 360px;
+    height: 112px;
+    font-size: 43px;
+    font-family: 'Satoshi';
+    line-height: 56px;
+    font-weight: 900;
+}
+
+.analyticsContainer>p {
+    width: 426px;
+    height: 140px;
+    opacity: 80%;
+    font-family: 'Satoshi';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.tech {
+    width: 703px;
+    height: 518px;
+    object-fit: contain;
+    margin-top: 60px;
+}
+
+.imgContainer {
+    flex: 1;
+}
+
+.analyticsexpressContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 120px;
+    gap: 20px;
+}
+
+.analyticsexpress {
+    flex: 1;
+}
+
+.fieldImg {
+    width: 703px;
+    height: 518px;
+    object-fit: contain;
+}
+
+.analyticsexpressText {
+    flex: 1;
+}
+
+.analyticsexpressText>h1 {
+    width: 360px;
+    height: 112px;
+    font-size: 43px;
+    font-family: 'Satoshi';
+    line-height: 56px;
+    font-weight: 900;
+}
+
+.analyticsexpressText>p {
+    width: 426px;
+    height: 140px;
+    opacity: 80%;
+    font-family: 'Satoshi';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}

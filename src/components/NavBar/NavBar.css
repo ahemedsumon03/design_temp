@@ -1,0 +1,42 @@
+.navbar {
+    margin-top: 30px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 130px;
+    cursor: pointer;
+}
+
+
+.logoicon {
+    width: 198.82px;
+    height: 50px;
+}
+
+
+.navlink ul {
+    list-style-type: none;
+    display: flex;
+    gap: 22px;
+}
+
+.imgNav {
+    display: flex;
+    align-items: center;
+}
+
+.imgNav ul {
+    list-style-type: none;
+}
+
+.imgNav ul li {
+    margin-left: -40px;
+}
+
+.navlink ul li {
+    font-family: 'satoshi';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+}
